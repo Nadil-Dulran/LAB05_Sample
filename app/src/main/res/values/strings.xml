@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">LAB05_Sample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="user_fragment">User Fragment</string>
+    <string name="button_display">DISPLAY</string>
+
+
 </resources>
